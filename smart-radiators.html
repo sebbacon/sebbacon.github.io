@@ -6,13 +6,7 @@
     <p>These are some work-in-progress, mainly for my own benefit...</p>
     <h1>The problem</h1>
     <p>
-    My partner and I both work from home. We live in a fairly leaky Victorian house.  In the winter we want to heat:</p>
-    <ul>
-      <li>our study 07:30 - 18:00</li>
-      <li>our living room / kitchen (open plan) 06:45 - 08:00 and 15:30 - 22:00</li>
-      <li>our kids' bedrooms 18:00 - 21:00 and 06:30 - 07:30</li>
-      <li>our bedroom 21:00 - 22:30 and 06:30 - 07:30</li>
-    </ul>
+    My partner and I both work from home. We live in a fairly leaky Victorian house.  In the winter we want to heat in various rooms at various times.</p>
     <p>
     Our thermostat allows us to turn everything on and off to the same
     schedule, based on the temperature in a single room.
@@ -26,6 +20,7 @@
     <h2>Fitting the valves</h2>
     <p>The valves use M30 x 1.5mm standard thread size which fits most modern radiators, and are supplied with a Danfoss RA adaptor which is rarely used in the UK.  If you're lucky, you can just unscrew the union nut by hand (or with a bit of help from a plumber's wrench) and attach the EQ-MAX TRV with its own union nut.</p>
     <p>Older radiators are more of a pain. Two of the radiators in my house are <i>Comap Westherm</i> which uses M28 x 1mm.  You'll have to hope you can find an adaptor (<a href="https://www.heatingcontrolsonline.co.uk/28mm-trv-adaptors-p-386.html">I could</a>), or you'll need to get a plumber to change the radiator fittings for you. <a href="https://energenie4u.co.uk/res/pdfs/Valve%20Adaptor%20List%20V5.pdf">Here's a handy list of adapter sizes</a>.</p>
+    <p>Sometimes you'll see an `F2` error message on the adaptor after fitting. This means it's not seated properly. I gave older valves a squirt with some lubricant and jiggled the little stud that opens and closes the valve with some soft hammer taps.  Where there's a long thread you have to tighten the nut a bit further than you expect to get a snug internal fit against the stud.</p>
       <h2>Random observations</h2>
       <p>When playing with scripting, I found TRVs would randomly stop responding. It turns out this is because of the "1% rule" - each RF band has a "duty cycle" which is the maximum ratio of time on the air per hour. Basically, 1% means you can speak 36s per hour.</p>
   </body>
