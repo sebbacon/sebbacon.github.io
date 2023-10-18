@@ -1,0 +1,24 @@
+---
+layout: post
+title:  "An interactive, 3D Ordnance Survey map of Stroud"
+date:   2016-04-04 
+categories: maps
+---
+
+I made a zoomable, draggable, 3D relief map of Stroud, using OS maps.
+
+![An Ordnance Survey map of the Five Valleys of Stroud, rendered in 3D with hills in high relief, viewed at an oblique angle](/assets/images/stroud0.png)
+
+
+Sorry, but I didn't make detailed notes about how I did it, and it was a while ago.
+
+The brief version is:
+
+* I did it all with QGIS and plugins:
+    * [Qgis2threejs](https://github.com/minorua/Qgis2threejs) to generate the visualisation
+    * I can't remember how I got the LiDAR (DEM) models but it was [something like this](http://www.mjk2.net/waffle/misc/Lidar/lidar.htm)
+    * I used Bing Maps with the [OpenLayers Plugin](https://plugins.qgis.org/plugins/openlayers_plugin/) to get the OS maps
+
+It's interesting to see what Stroud would look like with a sea level of 60 meters (not that any climate models suggest sea levels going _that_ high):
+
+![The same Ordnance Survey map of the Five Valleys of Stroud as the previous one on this page, as if it were flooded with water to the 60m contour](/assets/images/stroud1.png)
