@@ -5,7 +5,7 @@ date:   2016-04-04
 categories: maps
 ---
 
-I made [a zoomable, draggable, 3D relief map of Stroud, using OS maps](/old/stroudviz/20160404144959.html).
+I made [a zoomable, draggable, 3D relief map of Stroud, using OS maps](/old/stroudviz/20160404144959.html). (Right-click to pan, scroll-wheel to zoom, control-click to rotate.)
 
 ![An Ordnance Survey map of the Five Valleys of Stroud, rendered in 3D with hills in high relief, viewed at an oblique angle](/assets/images/stroud0.png)
 
