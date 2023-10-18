@@ -1,24 +1,3 @@
-# System files
-*.py[co]
-*.egg*
-build
-*.db
-*.log
-.project
-.pydevproject
-.settings
-*~
-\#*\#
-/.emacs.desktop
-/.emacs.desktop.lock
-.elc
-auto-save-list
-tramp
-.\#*
-*.swp
-*.swo
-.DS_Store
-._*
-Thumbs.db
-Desktop.ini
-Icon?
+_site
+.sass-cache
+.jekyll-metadata
