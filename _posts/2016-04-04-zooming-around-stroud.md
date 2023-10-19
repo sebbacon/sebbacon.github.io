@@ -2,7 +2,7 @@
 layout: post
 title:  "An interactive, 3D Ordnance Survey map of Stroud"
 date:   2016-04-04 
-categories: maps
+categories: maps, history, stroud
 ---
 
 I made [a zoomable, draggable, 3D relief map of Stroud, using OS maps](/old/stroudviz/20160404144959.html). (Right-click to pan, scroll-wheel to zoom, control-click to rotate.)

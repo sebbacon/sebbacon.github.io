@@ -2,7 +2,7 @@
 layout: post
 title:  "An interactive historical map of The Heavens"
 date:   2018-02-01 
-categories: maps, history
+categories: maps, history, stroud
 ---
 
 There's a local beauty spot called "The Heavens". It's a short walk from my house. It has beautiful views, a stream, a huge tree swing, a couple of fire pits, and it's in a small, enclosed valley which makes it ideal for relaxing while keeping an eye on your kids.
