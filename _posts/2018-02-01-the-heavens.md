@@ -15,4 +15,4 @@ I took one of them (I think from the 17th century), and georeferenced it against
 
 You can [zoom around the map here](/old/stroudviz/heavens.html); I wrote about the techniques I used [in an earlier post about mapping Stroud]({% post_url 2016-04-04-zooming-around-stroud %}).
 
-
+<!--more-->

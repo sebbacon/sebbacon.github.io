@@ -9,6 +9,7 @@ I made [a zoomable, draggable, 3D relief map of Stroud, using OS maps](/old/stro
 
 ![An Ordnance Survey map of the Five Valleys of Stroud, rendered in 3D with hills in high relief, viewed at an oblique angle](/assets/images/stroud0.png)
 
+<!--more-->
 
 Sorry, reader: I didn't make detailed notes about how I did it, and it was a while ago. The brief version, as I recall it, is:
 

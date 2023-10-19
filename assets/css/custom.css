@@ -1,0 +1,4 @@
+ul.post-list>li {
+    list-style-position: inside;
+    border-bottom: 1px solid darkgrey;
+}

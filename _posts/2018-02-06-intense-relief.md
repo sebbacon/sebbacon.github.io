@@ -15,7 +15,7 @@ A Digital Elevation Model (DEM) is like a 3D map that shows the height of the gr
 Here's a satelite view of The Heavens on the left, with a hillshade model of the same area on the right:
 
 ![Two maps of "The Heavens" overlaid on each other, the top one semi-transparent, rendered in 3D with hills in high relief, viewed at an oblique angle](/assets/images/dem.png)
-
+<!--more-->
 The "sun" is shining (approximately) from the west. It's really hard to interpret on this kind of scale. And when the "sun" is shining from different angles, you can pick out quite different features.
 
 ![Two maps of "The Heavens" overlaid on each other, the top one semi-transparent, rendered in 3D with hills in high relief, viewed at an oblique angle](/assets/images/compare-hillshade.png)
