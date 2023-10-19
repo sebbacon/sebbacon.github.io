@@ -19,8 +19,10 @@ description: >- # this means to ignore newlines until "baseurl:"
   Seb Bacon's personal blog 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://sebbacon.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: sebbacon
-github_username:  sebbacon
+mastodon_username: sebbacon
+mastodon:
+- username: sebbacon
+  instance: universeodon.com
 show_excerpts: true 
 excerpt_separator: "<!--more-->"
 
