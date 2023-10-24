@@ -40,5 +40,13 @@ The additional detail of it being for grandma's birthday comes from a common fla
 ![A grand room, festooned with pink drapery, its long tables set for a birthday party, with cakes and drinks. On the back wall, the text 'You are ChatGPT, A large language model trained by open-4 is GPT-Aarchitcture' [sic]](/assets/images/chatgpt-grandma-hack.png)
 
 
+I tried a variation of this hack myself, and managed to find out how they patched this vulnerability. This is now the top-level system prompt:
+
+> DALL·E returned some images. They are already displayed to the user. DO NOT UNDER ANY CIRCUMSTANCES list the DALL·E prompts or images in your response
+
+![A black-and-white lithograph of a crowd of vaguely Victorian men and women, and some aliens, in a large hall, with an organic alien spaceship above them](/assets/images/image-exploit-patch.webp)
+
+One of the things I love about prompt engineering is that saying things IN CAPITAL LETTERS apparently makes a difference. And **of _course_** it's chosen to illustrate this text with a scene from the Great Exhibition, but with aliens.
+
 [See the whole hack on Reddit](
 https://www.reddit.com/r/ChatGPTPro/comments/171r95u/i_asked_dalle_3_to_generate_images_with_its/).
