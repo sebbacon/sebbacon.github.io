@@ -17,11 +17,11 @@ I got distracted by [this toot](https://saturation.social/@clive/111388314905994
 > 
 > He’s up 20% since May 2022
 
-The idea you can track insider trading through the financial disclosure reports of
-politicians is very appealing. I made it a weekend challenge to reproduce the
-trading strategy. Inevitably, I didn't finish writing the bot, but I _did_ find
-that extracting data from PDF tables has got easier since I last tried, so here
-are some notes.
+The idea you can track insider trading through the financial disclosure reports
+of politicians is very appealing. I gave myself a weekend challenge to reproduce
+the trading strategy. Inevitably, I didn't finish writing the bot, but I _did_
+find that extracting data from PDF tables has got easier since I last tried, so
+here are some notes.
 
 <!--more-->
 
