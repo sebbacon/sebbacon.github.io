@@ -11,7 +11,7 @@ I live in Stroud, United Kingdom.
 I'm Chief Technical Officer at the [Bennett Institute for Applied Data Science](https://www.bennett.ox.ac.uk/), 
 at the University of Oxford.
 
-I like using technology for making the world better and amusing myself and other people.
+I ❤️ technology, for making the world better, and amusement.
 
 
 * [Github](https://github.com/sebbacon)
