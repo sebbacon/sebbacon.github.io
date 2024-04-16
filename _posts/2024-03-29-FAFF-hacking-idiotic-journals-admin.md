@@ -11,15 +11,15 @@ One bit of nonsense is **grant admin**.
 
 Today, I filled out an online form for a major grant application. 
 
-All I had to do was list 6 papers and 2 grants that I've been involved in.  It took me about an hour, over a period of three days, and involved a long multi-way email thread, screenshots with arrows drawn on them, and utter despair masking as jokes.Everything went wrong when we were all logged in at the same time, and the best solution was for each of us to log in, edit, and log out again as quickly as possible.
+My task: list 6 papers and 2 grants that I've been involved in.  
 
-This is normal. _Every single_ grant application process is terrible. The rule seems to be that the larger the funder, the more terrible the software.  Today we were applying to a national institute with an annual spend of well over £1 billion. An organisation _that_ big muat have software as bad as that [thing in the news](https://www.bbc.co.uk/news/uk-scotland-glasgow-west-68431728). Those are the rules.
+It took three days, and involved a long multi-way email thread, screenshots with arrows drawn on them, and utter despair disguised with jokey banter. Everything went wrong when we were all logged in at the same time, and the best solution was for each of us to log in, edit, and log out again as quickly as possible.
 
-![Chocolate experience props](../assets/images/wonka.jpg)
+This is normal. _Every single_ grant application process is terrible. The rule seems to be that the larger the funder, the more terrible the software.  Today we were applying to a national institute with an annual spend of well over £1 billion. An organisation _that_ big must have unimaginably bad software. Those are the rules.
+
+Another kind of admin that makes academics despair is the **journal admin**...
 
 <!--more-->
-
-Another kind of admin that makes academics despair is the **journal admin**.
 
 Whenever a paper is accepted for publication, each author has to do two very important and perfectly reasonable things: describe any potential conflicts of interest they may have; and sign some terms of agreement.
 
