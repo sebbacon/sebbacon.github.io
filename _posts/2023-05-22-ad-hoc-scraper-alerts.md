@@ -5,7 +5,7 @@ date: 2023-05-22
 categories: coding
 ---
 
-[Dave](http://evansd.net/) pointed out [this wierd
+[Dave](http://evansd.net/) pointed out [this weird
 trick](https://github.com/sebbacon/gha-page-change-monitor) some years ago, to
 use Github actions as a free engine for checking websites and sending you email
 alerts when they change.
